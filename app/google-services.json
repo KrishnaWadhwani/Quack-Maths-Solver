@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387740998568",
+    "project_id": "quack-4eade",
+    "storage_bucket": "quack-4eade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387740998568:android:f10746c8543a56427edb9d",
+        "android_client_info": {
+          "package_name": "com.learning.quack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387740998568-adiip3tc08pc514asmqmkudpj5rp0ljg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbRcGeVtJvZiMCHi5YudvzRa9EsvSV2qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387740998568-adiip3tc08pc514asmqmkudpj5rp0ljg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
