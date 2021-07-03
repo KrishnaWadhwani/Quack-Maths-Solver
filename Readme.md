@@ -2,7 +2,12 @@
 
 ![image](https://user-images.githubusercontent.com/61587047/123534837-ae2b9200-d73d-11eb-883e-e50f13b91ffc.png)
 
-Download Quack Maths Solver From Here: https://play.google.com/store/apps/details?id=com.learning.quack
+# Playstore Link
+
+<a href="https://play.google.com/store/apps/details?id=com.learning.quack">
+<img alt="Quack Playstore link" height = 100 src="https://user-images.githubusercontent.com/61587047/124344330-07d50600-dbef-11eb-8efe-88bb170f49af.png">
+
+# Note
 
 This is my 1st app which I have developed using Java
 
