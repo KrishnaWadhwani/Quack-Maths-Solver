@@ -24,6 +24,10 @@ And Many More...
 ![image](https://user-images.githubusercontent.com/61587047/123534908-15494680-d73e-11eb-8dc0-c96a4db597ec.png)
 ![image](https://user-images.githubusercontent.com/61587047/123534910-18443700-d73e-11eb-8e7f-5f2bfc2c8285.png)
  
+ # Stats Of This Repository
+
+[![Stats](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaWadhwani&repo=Quack-Maths-Solver&theme=dracula)](https://github.com/KrishnaWadhwani)
+
  # Credits
  - Developed And Maintained By: Krishna Wadhwani
  - I Welcome New Contributors
