@@ -2,6 +2,13 @@
 
 ![image](https://user-images.githubusercontent.com/61587047/123534837-ae2b9200-d73d-11eb-883e-e50f13b91ffc.png)
 
+# Tech Used
+
+1) Java
+2) Firebase Auth
+3) Firestore
+4) [This To Share Solutions](https://developer.android.com/training/sharing/send) 
+
 # Playstore Link
 
 <a href="https://play.google.com/store/apps/details?id=com.learning.quack">
